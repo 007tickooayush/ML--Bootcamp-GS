@@ -7,7 +7,7 @@ How to Use The script :
 
 3.)Run the App.py as it have all the routes
 
-4.)Open python propt over local machine or
+4.)Open python prompt over local machine or
 
    open -anaconda prompt over windows 
    
